@@ -1,0 +1,1 @@
+# The mandatory proof of derivations from Attitude Determination Using a Single Sensor Observation: Analytic Quaternion Solutions and Property Discussion, published on IET Science Measurement and Technology.
